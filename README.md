@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm SonicoZapdos 👋
 
-<!--
-**SonicoZapdos/SonicoZapdos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on front-end;
+- 🌱 I’m currently learning html, css, js, c#, sql, lua;
+- 💬 Ask me about I'm 18, my real name is Gustavo, I from Brazil and I like programm, make games, music and pixel arts;
+- 📫 How to reach me: <br>
+  email gustavohscinelli@gmail.com; <br>
+  telegram SonicoZapdos; <br>
+  discord SonicoZapdos; <br>
+  twitter SonicoZapdos; <br>
+- 😄 Pronouns: He/Him;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div display="flex" align-itens="center" justify-content="center" flex-direction="columns">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sonicozapdos&theme=dracula&show_icons=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonicozapdos&theme=dracula&show_icons=true"/>
+</div>
