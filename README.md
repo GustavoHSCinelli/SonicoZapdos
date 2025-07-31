@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/Him;
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonicozapdos&theme=dracula&show_icons=true"/> <br>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonicozapdos&theme=dracula&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoHSCinelli&theme=dracula&show_icons=true"/> <br>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHSCinelli&theme=dracula&show_icons=true"/>
 </div>
 
